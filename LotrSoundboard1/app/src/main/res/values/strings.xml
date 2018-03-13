@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Lotr and Hobbit Soundboard</string>
+
+    <string-array name="soundNames">
+        <item>Dale Horn</item>
+        <item>Horn of Erebor</item>
+        <item>Gondor Horn</item>
+        <item>Gungabad Angmar</item>
+        <item>Gungabad Attack</item>
+        <item>Hammerhand 1</item>
+        <item>Hammerhand 2</item>
+        <item>Haradrim</item>
+        <item>Isengard Horn</item>
+        <item>Isengard Horn 2</item>
+        <item>Horn of Lothrorien</item>
+        <item>Mordor Horn</item>
+        <item>Rhun Easterlings</item>
+        <item>Rohan</item>
+        <item>Woodland Realm</item>
+        <item>You shall not pass</item>
+    </string-array>
+
+    <string name="action_send">Teilen</string>
+    <string name="action_ringtone">Speichern als...</string>
+    <string name="action_favorite">Als Favorit hinzufügen</string>
+    <string name="action_removeFavorite">Favorit löschen</string>
+    <string name="action_favorite_show">Favoriten</string>
+    <string name="action_favorite_hide">Zurück</string>
+    <string name="action_info">Info</string>
+    <string name="action_about">Willkommen!\n\nEntwickler: Marvin Bittermann/JakobevCorporation\n\n
+E-Mail: jakobev1@gmail.com\n\n
+App-Version: 1.0\n\n
+Bin für alle Verbesserungsvorschläge offen, also wenn ihr bock habt,
+schreibt mir einfach eine kurze Mail.
+Danke :)</string>
+
+</resources>

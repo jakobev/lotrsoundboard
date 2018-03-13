@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+
+    <TextView
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:text="@string/action_about"
+        android:textStyle="normal"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="25dp"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:autoLink="email"
+        android:textColor="@color/black"
+        android:textColorLink="@color/red"
+        />
+</RelativeLayout>
